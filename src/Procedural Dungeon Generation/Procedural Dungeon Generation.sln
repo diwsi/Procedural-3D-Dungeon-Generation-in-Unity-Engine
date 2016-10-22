@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Dungeon Generation.CSharp", "Procedural Dungeon Generation.CSharp.csproj", "{7B28E5C5-7C12-5B6A-BE7B-B7607BB4D2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B28E5C5-7C12-5B6A-BE7B-B7607BB4D2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B28E5C5-7C12-5B6A-BE7B-B7607BB4D2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B28E5C5-7C12-5B6A-BE7B-B7607BB4D2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B28E5C5-7C12-5B6A-BE7B-B7607BB4D2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
